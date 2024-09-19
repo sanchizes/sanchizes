@@ -1,7 +1,7 @@
 ![Header](https://github.com/sanchizes/sanchizes/blob/main/assets/Blog_QA-1440x438.png)
 
 ## <b>About me:</b>
-### I`m a beginner QA Manual Engineer
+### 
 
 ## 💻 <b>Languages and Tools</b>
 ![Jira](https://img.shields.io/badge/-Jira-85A18E?style=for-the-badge&logo=jira&logoColor=1067E1)
