@@ -1,4 +1,4 @@
-![Header](https://github.com/sanchizes/sanchizes/blob/main/assets/Blog_QA-1440x438.png)
+![Header](https://github.com/sanchizes/sanchizes/blob/84d577add2bd73955297cef142a3920db1196f7b/assets/mountains-nature-landscape-moon-wallpaper-preview.jpg)
 
 ## <b>About me:</b>
 ### 
